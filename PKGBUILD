@@ -1,5 +1,5 @@
 pkgname=libraries-meta
-pkgver=2022.10
+pkgver=2022.12
 pkgrel=1
 pkgdesc='A meta package of msys2 libraries group'
 arch=( 'any' )
