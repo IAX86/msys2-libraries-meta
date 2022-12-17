@@ -1,2 +1,2 @@
-# msys2-libraries-meta
-msys2 libraries group meta package
+# MSYS2-libraries-meta
+MSYS2 libraries group meta package
